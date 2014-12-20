@@ -1,0 +1,15 @@
+{
+    "name": "rudidevries/kaku",
+    "description": "This library provides a basic object interface for calling a the KAKU program to switch devices with the Raspberry Pi and a 433mhz transmitter.",
+    "require": {
+        "php": ">=5.3.3",
+        "herzult/php-ssh": "~1.0@dev"
+    },
+    "authors": [
+        {
+            "name": "Rudi de Vries",
+            "email": "rudidevries@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
