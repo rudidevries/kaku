@@ -1,5 +1,7 @@
 # KAKU - 'Klik aan Klik uit'
 
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/6ed57a9e-e5d1-4c2f-9206-7adf6c7bc8f2/big.png)](https://insight.sensiolabs.com/projects/6ed57a9e-e5d1-4c2f-9206-7adf6c7bc8f2)
+
 This library provides a basic object interface for calling a the KAKU program to switch devices with the Raspberry Pi and a 433mhz transmitter.
 
 A complete description of how to setup the KAKU program on the Raspberry Pi is found [here](http://weejewel.tweakblogs.net/blog/8665/lampen-schakelen-met-een-raspberry-pi.html) in Dutch.
