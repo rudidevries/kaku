@@ -71,6 +71,4 @@ class Channel
     {
         return $this->channel;
     }
-
-
 }
